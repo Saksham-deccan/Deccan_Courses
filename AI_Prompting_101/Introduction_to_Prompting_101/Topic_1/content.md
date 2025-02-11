@@ -22,7 +22,7 @@ Large Language Models (LLMs) that you widely use such as ChatGPT, Gemini, and Ll
 
 **Response to Prompt 2:**
 
-<img src ="/Users/sakshamchoudhary/Desktop/Deccan_Courses/Images/Image_2.png">
+<img src ="/Users/sakshamchoudhary/Desktop/Deccan_Courses/Images/Image_1.png">
 
 ✨ Look how prompt 2 leads to an accurate answer with just an addition of a simple phrase!
 
