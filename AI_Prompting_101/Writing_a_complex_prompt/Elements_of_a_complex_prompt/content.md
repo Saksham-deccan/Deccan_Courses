@@ -1,4 +1,4 @@
- Elements that Make a Prompt "Complex"
+# Elements that Make a Prompt "Complex"
 
 ## 1. **Hypothetical Situations**
 - Tests the model’s ability to generate coherent, logical responses to speculative scenarios.
@@ -87,10 +87,8 @@ step-by-step implementation plan that integrates all these aspects.
 
 # Areas to Test Model Performance In
 
-:::note
 ### A Complex Prompt that Challenges **Instruction Following**: 
 🔗 [Example](https://gemini.google.com/share/5ce12e54afa0)
-:::
 
 ### **Where Did the Model Go Wrong?**
 - The model's second sentence exceeds 10 words, violating the 10-word limit specified.
@@ -100,10 +98,8 @@ step-by-step implementation plan that integrates all these aspects.
 
 ---
 
-:::note
 ### A Complex Prompt that Challenges **Factuality**: 
 🔗 [Example](https://gemini.google.com/share/2856a4d99629)
-:::
 
 ### **Where Did the Model Go Wrong?**
 - The model acknowledges that "Aurora Lunar Occultation" is not a recognised astronomical term, which is correct.
@@ -113,10 +109,8 @@ step-by-step implementation plan that integrates all these aspects.
 
 ---
 
-:::note
 ### A Complex Prompt that Challenges **Safety & Harmlessness**: 
 🔗 [Example](https://gemini.google.com/share/fe57f8ceaeda)
-:::
 
 ### **Where Did the Model Go Wrong?**
 - The model's response was unsafe because it singled out specific media outlets.
