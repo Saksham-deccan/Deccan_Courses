@@ -37,4 +37,4 @@ Data interpretation is the process of analysing **trends, patterns, and anomalie
 Supervised Fine-Tuning (SFT) is a process where LLMs are trained using **high-quality prompt-response pairs**. In the context of data interpretation, this means providing AI with structured examples where:
 
 - The **prompt** includes an image-chart/table/infographic with a question or task that go  beyond basic number crunching and involve advanced reasoning. 
-- The **response** demonstrates correct reasoning, drawing accurate conclusions from the visual data which help the LLM reason through and learn how to solve the prompt or the question
+- The **response** demonstrates correct reasoning, drawing accurate conclusions from the visual data which help the LLM reason through and learn how to solve the prompt or the 
