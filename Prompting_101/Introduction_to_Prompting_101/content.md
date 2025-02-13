@@ -18,7 +18,12 @@ Large Language Models (LLMs) that you widely use such as Chat GPT, Gemini and Ll
 
 **Response to Prompt 1:**&#x20;
 
+<img height="128" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHrY-_6Wq0fJyDVu5u1XJIJGm2T6LfscKpv-ANyyr7-4yaeZWxVbw3muEgeVa-ccVLm4Ho-qRYSCj_WU3bELosyFe24eOzZMizoiD6KXtU3gooshJFz-p4B5oY_P3DMC32DRCuXw?key=knaq4zjgrnXCUPImADjMOLLn" /> 
+
+
 **Response to Prompt 2:**&#x20;
+
+<img height="275" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXLXWUmeXwtvk6BT9uFPfjmYBBz7oo0pF45H7UPduU57q7x11_I_1svRXpBDeYIIq5crtjupQILd8psBHlLYTbhU3SXk6-s-Ii0jpx3-i0kggUOZyTtVjnTMPgsN56XLwJGLFm2A?key=knaq4zjgrnXCUPImADjMOLLn" />
 
 ✨ Look how prompt 2 leads to an accurate answer with just an  addition of a simple phrase!&#x20;
 
