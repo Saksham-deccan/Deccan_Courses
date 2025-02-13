@@ -1,5 +1,7 @@
 # Introduction to Prompting 101
 
+## Does your prompt affect your response?
+
 Have you ever wondered how AI chatbots, virtual assistants, and search engines give you the answers you need? It all comes down to something simple but powerful—**prompts**.
 
 Large Language Models (LLMs) that you widely use such as Chat GPT, Gemini and Llama are trained on vast datasets made up of prompts and responses. These prompts are the questions, commands, or statements you provide, and the model's job is to respond as accurately and helpfully as possible. The better the prompt, the better the response! 
