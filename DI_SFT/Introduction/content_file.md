@@ -1,6 +1,6 @@
 # Data Interpretation | Supervised Fine-Tuning 
 
-<img height="359" width="454" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0vP8mcuOKkw8664Sf-NoRWiSDgb0KDoHnpxmCFo7a7nKSJ3UxYeKnhmqnzQlwHeib_IJWyC64WMny-4RDPCEjBw0M68zYvkrH2cKTBnSHcozCce4mwsTkUyBfdsSJBsTvn_ClQA?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="359" width="454" src="${PRIVATE_INTRODUCTION_IMAGE}"/>
 
 Imagine you're a researcher trying to make sense of complex data from various charts, tables, infographics, or presentation slides, but you don’t have expertise to read through the statistical data. 
 

@@ -1,6 +1,6 @@
 # Teaching LLMs Data Interpretation through Supervised Fine-Tuning
 
-<img height="340" width="385" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlKPdHRyBVIBykNBIczUu090fVf-4s0vZrjYOF8DXoQP3hN9TYzYg0mxNCmYLvoT32LyyX0sRvTBtrxH_KCWG0t84scCNjbfxHFotxRKpf1o41aYTxtEvUGdOCxtFrIqFmV7i9tw?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="340" width="385" src="${PRIVATE_IMAGE_MODULE_1}" />
 
 ## What is Data Interpretation?
 

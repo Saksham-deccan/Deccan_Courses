@@ -4,7 +4,7 @@ Writing effective prompts is key to challenging AI models to deeply analyse and 
 
 ## Types of Prompts
 
-<img height="329" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWnwQ61OQWkO6kXss1YCtS3Y2mPvQ1S0aXSI8maoQ-DSmjTva6oCPzIrrYVJ6SaonQekvhlzGFVUFdwbvOBEYcNCZ3ybD-CwgZjak93hA5FTJo3r2D5i_j3NXfy1h17BMg43dt?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="329" width="602" src="${PRIVATE_IMAGE_MODULE_3_1}" />
 
 ### <span style="color:#364BC9">1. Contextual Prompts:</span>&#x20;
 
@@ -21,7 +21,7 @@ Writing effective prompts is key to challenging AI models to deeply analyse and 
 
 ## What makes an effective data interpretation prompt?
 
-<img height="550" width="670" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7JLTSBFmNO7rEDfhC-4KiFqRxhwQVyiPaOF30kRCf0bC7Z_sB40sjrbT-nUn2KZ1ZZ6kCk4guMpLpYsIHBH3PWM1Lm97BJpNPEv0QgMDrIKRV-JLYiQzDZDO_9RylkQDlugx7Xg?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="550" width="670" src="${PRIVATE_IMAGE_MODULE_3_2}" />
 
 ### <span style="color:#364BC9">1.  Relevance</span>
 
@@ -170,7 +170,7 @@ This version doesn’t provide enough structure or challenge points. It does not
 
 ## Prompt Example: Contextual
 
-<img height="699" width="699" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdh_quPKpb9piQOoeFdqrm46jX06JlupnZjUe-rPDq8BU68IrfXShEPLplu5kAoqcLuu7AsovmDFX2NUYdT-l0V7vn_BHTIkgn8MzDf2pRYorVuWnsYAjvX6g9q_mKFdTKsSBUD7g?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="699" width="699" src="${PRIVATE_IMAGE_MODULE_3_3}" />
 
 :::note
 Identify the intoxicants in the given image that do not lead to 'drug-related mortality.' Present the findings in a table.
@@ -185,7 +185,7 @@ Identify the intoxicants in the given image that do not lead to 'drug-related m
 
 ## Prompt Example: Semi-Contextual
 
-<img height="642" width="642" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9yuhpeMTPNc8ej58k7a9wqVlnXcD6axByN0RVh2HaQ8M3xNkVCGoJ_TILP7yAWyIpI0zo38g1pWUhyILHjE_RYgXG90TNgI5MjADq7-ZE6u4o5I4yUJgkz-cf_ktsJj11LMjmmg?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="642" width="642" src="${PRIVATE_IMAGE_MODULE_3_4}" />
 
 :::note
 List each major event, along with the year it occurred and the corresponding dust concentrations, that took place between the first appearance of black band disease and the recorded seagrass death. Additionally, indicate whether any of these events coincided with significant climatic events?
