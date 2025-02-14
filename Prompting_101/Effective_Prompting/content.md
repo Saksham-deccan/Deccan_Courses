@@ -1,7 +1,3 @@
----
-"": ""
----
-
 # Getting Better Responses from LLMs with Effective Prompting 
 
 ## Elements that turn a generic prompt into an effective one 
