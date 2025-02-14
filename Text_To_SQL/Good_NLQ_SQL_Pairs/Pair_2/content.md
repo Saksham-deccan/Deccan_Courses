@@ -1,7 +1,7 @@
-## Nautral Language Query
+## <span style="color:#364BC9"> Nautral Language Query </span>
 Which part had the largest increase in the number of orders from 1993 to 1994?
 
-## SQL Query
+## <span style="color:#364BC9"> SQL Query </span>
 
 ```
 WITH order_date_1993 AS (
@@ -40,3 +40,11 @@ LIMIT 1;
 
 
 ```
+### Let's try to understand why this NLQ & SQL pair is good through the video below:
+
+<iframe src="${PRIVATE_NLQ_SQL_PAIR_2}"
+        width="800"
+        height="450"
+        frameborder="0"
+        allowfullscreen>
+</iframe>

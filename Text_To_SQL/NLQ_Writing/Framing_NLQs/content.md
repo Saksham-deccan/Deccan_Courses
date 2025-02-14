@@ -2,7 +2,16 @@
 
 Now that you have a clear idea of the business metrics and data, it’s time to start writing questions for each metric. When training a model to generate SQL queries from natural language, the goal is to create NLQs that challenge the model and push it to learn and improve with each interaction.
 
-To enhance the quality of your queries, incorporate the following strategies:
+To enhance the quality of your queries, incorporate the strategies discussed in the video below:
+
+<iframe src="https://zoom.us/rec/share/j-jUeKs3hYsJ5rXRuri2vYCoiTcczrWWIC9XteVRy9HgqK3GF7DeFFI1osIGN0c.vLG3sImo3ZkvMNr1?startTime=1738939407000"
+        width="800"
+        height="450"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
+
+
 
 ***
 

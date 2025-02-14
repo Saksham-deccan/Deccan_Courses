@@ -2,6 +2,17 @@
 
 To work effectively with SQL and data, you'll need access to a database. Follow the simple steps below to get started:
 
+Watch the video below to understand the process of installing Dbeaver and accessing the database:
+
+
+<iframe src="${PRIVATE_DBEAVER_VIDEO}"
+        width="800"
+        height="450"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
+
+
 ## <span style="color:#364BC9">1. Install DBeaver</span>
 
 First, download and install the <a style="color:#364BC9" href="https://dbeaver.io/">DBeaver</a> application on your Windows or Mac system. DBeaver is a powerful tool that will help you easily interact with databases.

@@ -2,6 +2,15 @@
 
 Crafting effective Natural Language Queries (NLQs) is an art where creativity meets precision. Your goal is to simulate the types of questions real-world users would ask a model. Let’s break down the process step by step to help you write strong, business-focused queries.
 
+Watch the video below to gain a basic understanding of what an NLQ is.
+
+<iframe src="${PRIVATE_NLQ_BASICS}"
+        width="800"
+        height="450"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
+
 ## <span style="color:#2E86C1">1. Understand the Database</span>
 
 The foundation of any good NLQ is a deep understanding of the database you're working with. Take time to explore all the tables and columns, running small queries to grasp how the data is structured and how it reflects the business's core functions. This will help you understand the nuances of the data, enabling you to craft more accurate and relevant questions.
