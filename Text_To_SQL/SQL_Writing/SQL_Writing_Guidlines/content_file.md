@@ -4,17 +4,17 @@ Now that you’ve crafted your questions, it's time to generate the SQL queries 
 
 ---
 
-## 1. Extract Key Instructions from the NLQ
+## <span style="color:#364BC9"> 1. Extract Key Instructions from the NLQ </span>
 
-The first and most important step in writing a SQL query is identifying the critical details from the natural language question (NLQ).  
+- The first and most important step in writing a SQL query is identifying the critical details from the natural language question (NLQ).  
 
-Many people struggle here—they miss important elements that lead to irrelevant or incomplete queries.  
+- Many people struggle here—they miss important elements that lead to irrelevant or incomplete queries.  
 
-To avoid this, make sure to **mark all the essential instructions** that the NLQ is asking for, so nothing is overlooked.
+- To avoid this, make sure to **mark all the essential instructions** that the NLQ is asking for, so nothing is overlooked.
 
 ---
 
-## 2. Use Meaningful Aliases and CTEs
+## <span style="color:#364BC9"> 2. Use Meaningful Aliases and CTEs </span>
 
 To improve query readability and maintainability, it’s advisable to:
 
@@ -25,7 +25,7 @@ This ensures that your query remains structured and easier to debug.
 
 ---
 
-## 3. Return at Least One Row
+## <span style="color:#364BC9"> 3. Return at Least One Row </span>
 
 An effective query should return **at least one row** in its output.  
 

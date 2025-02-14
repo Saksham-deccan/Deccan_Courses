@@ -1,7 +1,7 @@
-## Nautral Language Query
+## <span style="color:#364BC9"> Nautral Language Query </span>
 What is the difference in the average order price for customers from the BUILDING and MACHINERY market segments?
 
-## SQL Query
+## <span style="color:#364BC9"> SQL Query </span>
 
 ```
 SELECT 
@@ -21,3 +21,12 @@ WHERE c.c_mktsegment IN ('BUILDING', 'MACHINERY');
 
 
 ```
+
+### Let's try to understand why this NLQ & SQL pair is good through the video below:
+
+<iframe src="${PRIVATE_NLQ_SQL_PAIR_1}"
+        width="800"
+        height="450"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
