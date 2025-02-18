@@ -1,0 +1,24 @@
+## Likert Scale Ranking System
+
+Once the responses are individually evaluated against the rubrics discussed in the previous sections, they are compared and ranked to identify which one is better. This ranking is done using a **Likert Scale**—a widely accepted industry standard for ranking responses. It helps in converting subjective opinions into quantitative data. A Likert Scale typically consists of a **5- or 7-point rating system**.
+
+### Likert Scale Ranking
+
+Typically, two responses—**Response A** and **Response B**—are ranked using the following scale:
+
+| **1**                       | **2**                  | **3**                           | **4**                          | **5**                           | **6**                  | **7**                       |
+| --------------------------- | ---------------------- | ------------------------------- | ------------------------------ | ------------------------------- | ---------------------- | --------------------------- |
+| A is **much better** than B | A is **better** than B | A is **slightly better** than B | A and B are **about the same** | B is **slightly better** than A | B is **better** than A | B is **much better** than A |
+
+Similar to well-defined criteria for individual rubrics discussed earlier, **preference ranking** follows a set of objective criteria. The table below explains the ranking nuances in detail.
+
+### Ranking Criteria
+
+| **Category**        | **When to Use**                                                                                                  | **Conditions**                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Slightly Better** | Use this when one response is noticeably better than the other, but not by a large margin.                       | - The difference in ratings for the **rubric - ‘Overall Quality’** between the responses should be no more than **1 point**.  - If Response A has a **minor issue** but Response B has a **major issue**, prefer Response A (and vice versa).  - If the responses are **nearly identical** in quality, prefer the **shorter one** (only in rare cases where both are of equal length—use your judgment). |
+| **Better**          | Use this when one response is noticeably better than the other.                                                  | - There should be **several (more than 2) minor issues** in either response, impacting the **rubric - ‘Overall Quality’**.                                                                                                                                                                                                                                                                               |
+| **Much Better**     | Choose this when there is a **significant quality gap** between the two responses.                               | - A difference of at least **2 points** in the **rubric - ‘Overall Quality’** should be present.  - If one response is **entirely correct** while the other contains **multiple major mistakes**, select the correct one.  - If one response **follows all instructions** while the other does not, prefer the former.                                                                                   |
+| **About the Same**  | Use this when both responses are either **very poor** or **very good**, making it difficult to justify a winner. | - Both responses should have a **very low/high ‘Overall Quality’** rubric rating.  - If neither response **correctly follows** the instructions or provides an accurate answer, this should be selected.  - This option is reserved for **extreme cases** where improvement is necessary, rather than a slight preference.                                                                               |
+
+***
