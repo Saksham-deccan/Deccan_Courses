@@ -1,4 +1,5 @@
-> ## Objectives:1) *Understand the concept of information retrieval and its importance.*
+> ## Objectives:
+> 1) *Understand the concept of information retrieval and its importance.*
 > 2) *Create a data sample used to train the model to perform RAG.*
 > 3) *Learn to extract important information from documents.*
 > 4) *Generate high quality questions integrating multiple creative elements.*
