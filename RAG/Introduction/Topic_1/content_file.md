@@ -15,6 +15,6 @@ Simply put, the model does all the research work for you. Now, you don’t have 
 
 For example, instead of providing a general answer about climate change based on its training data, an LLM using the RAG method knows it has to access some evidence-based reports and documents. So, it would retrieve the latest climate change reports published by the IPCC and integrate its findings into the response. This capability is especially useful in domains where accuracy and recency are critical, such as medicine, law, or research.
 
-![The RAG workflow diagram shows how user queries interact with large pools of data and leads the model to generate accurate responses backed by evidence.](https://www.notion.so/soulhq-ai/RAG-Internal-Training-1932951e2f4c802190c3f1e00cbf9719?pvs=4#1932951e2f4c81b69b4bdd154926160f)
+![The RAG workflow diagram shows how user queries interact with large pools of data and leads the model to generate accurate responses backed by evidence.](https://drive.google.com/file/d/1CVH0hhKAMSyTTldCPAW6yh0sqIT-ZEyA/view?usp=drive_link)
 
 The RAG workflow diagram shows how user queries interact with large pools of data and leads the model to generate accurate responses backed by evidence.
