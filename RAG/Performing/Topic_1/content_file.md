@@ -4,6 +4,6 @@ LLMs learn much like humans do—by seeing examples, understanding patterns, and
 
 These data samples play a crucial role in the RAG training process. It involves 4 basic steps as shown below.
 
-![Let’s understand this and create a data sample with a working example.](https://drive.google.com/file/d/1WaEoM5AafjJle1pPYMeIpXr2dcs4ryg8/view?usp=drive_link)
+<img height = "400" width = "1000" src = "${PRIVATE_IMAGE_INTRO_1}" />
 
 Let’s understand this and create a data sample with a working example.
