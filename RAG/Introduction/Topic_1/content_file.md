@@ -14,7 +14,5 @@ As the use of Large Language Models (LLMs) grows, there's increasing demand for 
 Simply put, the model does all the research work for you. Now, you don’t have to go through multiple links, records, and articles to come up with a verified answer; RAG-trained AI assistants can do it all for you!
 
 For example, instead of providing a general answer about climate change based on its training data, an LLM using the RAG method knows it has to access some evidence-based reports and documents. So, it would retrieve the latest climate change reports published by the IPCC and integrate its findings into the response. This capability is especially useful in domains where accuracy and recency are critical, such as medicine, law, or research.
-
-![The RAG workflow diagram shows how user queries interact with large pools of data and leads the model to generate accurate responses backed by evidence.](https://drive.google.com/file/d/1CVH0hhKAMSyTTldCPAW6yh0sqIT-ZEyA/view?usp=drive_link)
-
+<img height = "350" width = "1000" src = "${PRIVATE_IMAGE_INTRO_2}" />
 The RAG workflow diagram shows how user queries interact with large pools of data and leads the model to generate accurate responses backed by evidence.
