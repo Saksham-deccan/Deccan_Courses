@@ -2,7 +2,7 @@
 
 A high-quality question is one that includes multiple sub-questions and references information from various sections of the document. When framing such a question, it should be structured like a user’s natural query to an assistant.
 
-A well-crafted question integrates not necessarily all but multiple creative elements from the image 
+A well-crafted question integrates not necessarily all but multiple creative elements from the image below.
 
 <img height = "900" width = "800" src = "${PRIVATE_IMAGE_INTRO_2}" />
 Let’s look at our example - UNICEF Annual Report 2023 - and create a good question.
