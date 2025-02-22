@@ -4,7 +4,8 @@ A high-quality question is one that includes multiple sub-questions and referenc
 
 A well-crafted question integrates not necessarily all but multiple creative elements from the image below.
 
-<img height = "900" width = "800" src = "${PRIVATE_IMAGE_INTRO_2}" />
+<img height="900" width="800" src="${PRIVATE_IMAGE_GOOD_QUERY_1}" />
+
 Let’s look at our example - UNICEF Annual Report 2023 - and create a good question.
 
 Based on the sections we selected, a good query could be:
@@ -16,6 +17,6 @@ Based on the sections we selected, a good query could be:
 *Don’t include any kind of reasoning in your query (No calculations, No logical reasoning, No data-driven reasonings) - We are training it to retrieve information not perform any analysis.*
 :::
 
-### Simulator/Quiz
+### Take Home Assigment
 
 Create multiple questions from the document in use as the working example. Create a mix of good questions and poor questions. Learners need to distinguish between them and provide reasoning.
