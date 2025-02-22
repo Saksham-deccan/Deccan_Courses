@@ -7,7 +7,7 @@ Grasping the core information within the document is the foundational step (Step
 * Begin by identifying all sections in the document that could hold valuable information for the user.
 * Group complementary sections to enhance the retrieval process and improve the quality of responses. These pairs can provide a richer context when queried together.
 
-[UNICEF Annual report 2023 EN.pdf](attachment\:ca893a06-aeb3-403c-93d0-710b82d6029f\:UNICEF_Annual_report_2023_EN.pdf)
+<a href="attachment\:ca893a06-aeb3-403c-93d0-710b82d6029f\:UNICEF_Annual_report_2023_EN.pdf" style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;"> UNICEF Annual report 2023 </a>
 
 We’ll use the UNICEF Annual Report 2023 as our source of truth.
 
