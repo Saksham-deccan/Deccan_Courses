@@ -11,4 +11,11 @@ Based on the sections we selected, a good query could be:
 
 *What initiatives have been taken to improve access to education and skill development by UNICEF in 2023? What has been the impact of these initiatives?*
 
-💡**Pro tip**: Don’t include any kind of reasoning in your query (No calculations, No logical reasoning, No data-driven reasonings) - We are training it to retrieve information not perform any analysis.
+:::tip
+💡**Pro tip**
+*Don’t include any kind of reasoning in your query (No calculations, No logical reasoning, No data-driven reasonings) - We are training it to retrieve information not perform any analysis.*
+:::
+
+### Simulator/Quiz
+
+Create multiple questions from the document in use as the working example. Create a mix of good questions and poor questions. Learners need to distinguish between them and provide reasoning.
