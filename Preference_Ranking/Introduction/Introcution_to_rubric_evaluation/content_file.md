@@ -1,5 +1,7 @@
 ## Introduction to Rubric-Based Evaluation
 
+<iframe width="1838" height="828" src="https://www.youtube.com/embed/HSCq37XdRuU" title="Mummy Se daant Padne ke Baad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 A rubric is a set of criteria used to evaluate and assess responses based on predefined factors. Rubrics standardize evaluation, reduce biases, and ensure consistent feedback when assessing the quality of LLM-generated responses. Each criteria in the rubric has multiple rating options with well defined conditions used to evaluate responses. Training LLM models against a standardized benchmark ensures reliability and objectivity leading to fine tuning of models making them robust.
 
 While the rubrics are subject to change depending on the domain of the LLM, the following include the most commonly used criteria:
