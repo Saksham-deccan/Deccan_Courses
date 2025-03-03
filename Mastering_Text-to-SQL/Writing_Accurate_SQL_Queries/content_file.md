@@ -18,6 +18,8 @@ An effective query should return at least one row in its output. If your query r
 
 To ensure the query meets quality standards, follow this checklist:
 
+<img height="329" width="602" src="${PRIVATE_IMAGE_INTRO_4}" />
+
 * **SQL follows NLQ accurately:**
   The query should correctly reflect the natural language question, addressing all its requirements.
 * **Logical correctness:**
