@@ -30,8 +30,8 @@ Ensure that your query addresses a real business problem or insight. It should b
 
 **Example:**
 
-* **Bad:** "List all products and their sales."
-* **Good:** "What was the total revenue from our top 5 selling products last quarter?"
+* ❌ **Bad:** "List all products and their sales."
+* ✅ **Good:** "What was the total revenue from our top 5 selling products last quarter?"
 
 ### 3.2 Clarity and Specificity
 
@@ -39,8 +39,8 @@ Be clear and precise to avoid multiple interpretations. Replace vague terms like
 
 **Example:**
 
-* **Bad:** "Compare order values in different cities."
-* **Good:** "Calculate the difference in average order amount between customers in New York and Los Angeles."
+* ❌ **Bad:** "Compare order values in different cities."
+* ✅ **Good:** "Calculate the difference in average order amount between customers in New York and Los Angeles."
 
 ### 3.3 Avoid Technical References
 
@@ -48,8 +48,8 @@ Use business language instead of technical jargon. Refrain from mentioning speci
 
 **Example:**
 
-* **Bad:** "Count the orders in the 'orders' table where cust\_email = 'john.doe@example.com'."
-* **Good:** "What is the total number of orders placed by the customer with email address john.doe@example.com?"
+* ❌ **Bad:** "Count the orders in the 'orders' table where cust\_email = 'john.doe@example.com'."
+* ✅ **Good:** "What is the total number of orders placed by the customer with email address john.doe@example.com?"
 
 ### 3.4 Eliminate Ambiguity
 
@@ -57,8 +57,8 @@ Make sure each term in your query has a clear and singular meaning. Avoid expres
 
 **Example:**
 
-* **Bad:** "Which sales reps performed well recently?"
-* **Good:** "Which sales representatives exceeded their quarterly targets by more than 10% in Q2 2022?"
+* ❌ **Bad:** "Which sales reps performed well recently?"
+* ✅ **Good:** "Which sales representatives exceeded their quarterly targets by more than 10% in Q2 2022?"
 
 ### 3.5 Use Proper Language
 
@@ -66,8 +66,8 @@ Grammatical accuracy and clear sentence structure are crucial for a good NLQ. En
 
 **Example:**
 
-* **Bad:** "Whats the avg time btw 1st n 2nd purchase of customer?"
-* **Good:** "What is the average duration between a customer's first and second purchase?"
+* ❌ **Bad:** "Whats the avg time btw 1st n 2nd purchase of customer?"
+* ✅ **Good:** "What is the average duration between a customer's first and second purchase?"
 
 ### 3.6 Ensure Queryability
 
@@ -75,8 +75,8 @@ Your NLQ should translate into a SQL query that can be executed. Avoid pseudocod
 
 **Example:**
 
-* **Bad:** "SELECT TOP 10 customers ORDER BY purchase\_amount DESC LIMIT 6 months."
-* **Good:** "List the top 10 customers by total purchase amount in the last 6 months."
+* ❌ **Bad:** "SELECT TOP 10 customers ORDER BY purchase\_amount DESC LIMIT 6 months."
+* ✅ **Good:** "List the top 10 customers by total purchase amount in the last 6 months."
 
 ### 3.7 Data Exploration
 
@@ -84,8 +84,8 @@ Familiarize yourself with the data tables before writing queries. Ensure the dat
 
 **Example:**
 
-* **Bad:** "How many customers bought stuff from different categories?"
-* **Good:** "What percentage of our active customers have made a purchase in each product category?"
+* ❌ **Bad:** "How many customers bought stuff from different categories?"
+* ✅ **Good:** "What percentage of our active customers have made a purchase in each product category?"
 
 ### 3.8 Conciseness
 
@@ -93,8 +93,8 @@ Keep your query concise while still ensuring clarity and completeness. Avoid unn
 
 **Example:**
 
-* **Bad:** "Calculate the growth rate of new user signups for each month in the year 2023 compared to the previous month, showing the percentage increase or decrease."
-* **Good:** "What is the month-over-month growth rate of new user signups in 2023?"
+* ❌ **Bad:** "Calculate the growth rate of new user signups for each month in the year 2023 compared to the previous month, showing the percentage increase or decrease."
+* ✅ **Good:** "What is the month-over-month growth rate of new user signups in 2023?"
 
 ### 3.9 Quantifiable Metrics
 
@@ -102,8 +102,8 @@ Be specific when comparing or analyzing data. Always state the exact metrics to 
 
 **Example:**
 
-* **Bad:** "How loyal are our new users?"
-* **Good:** "What is the 90-day retention rate for users who signed up in January 2023?"
+* ❌ **Bad:** "How loyal are our new users?"
+* ✅ **Good:** "What is the 90-day retention rate for users who signed up in January 2023?"
 
 ### 3.10 Review and Refine
 
