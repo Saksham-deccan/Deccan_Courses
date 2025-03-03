@@ -2,6 +2,8 @@
 
 Crafting effective NLQs is an art where creativity meets precision. Your goal is to simulate the types of questions real-world users would ask a model. Let’s break down the process step by step to help you write strong, business-focused queries.
 
+<img height="329" width="602" src="${PRIVATE_IMAGE_INTRO_3}" />
+
 ## 1. Understand the Database
 
 The foundation of any good NLQ is a deep understanding of the database you're working with. Take time to explore all the tables and columns, running small queries to grasp how the data is structured and how it reflects the business's core functions. This will help you understand the nuances of the data, enabling you to craft more accurate and relevant questions.

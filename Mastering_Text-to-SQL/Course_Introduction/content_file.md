@@ -1,5 +1,7 @@
 # Course Introduction
 
+<img height="329" width="602" src="${PRIVATE_IMAGE_INTRO_2}" />
+
 Imagine you're a business manager trying to retrieve sales figures from the past five years, but you're not proficient in SQL. Do you enjoy the constant back-and-forth with analysts to get the data you need, or would you prefer an intelligent assistant that understands your request in plain language and generates the right SQL queries for you?
 
 If the latter sounds like the ideal solution, you're on the right track. The future of data access lies in models that convert simple, natural language questions (NLQs) into SQL queries. With these models, anyone—regardless of technical expertise—can extract valuable insights from databases with ease.

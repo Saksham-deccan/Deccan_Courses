@@ -4,6 +4,8 @@ Text-to-SQL is a specialized application of Natural Language Processing (NLP) th
 
 Large Language Models (LLMs) are not inherently capable of converting natural language queries (NLQs) into SQL. They must be trained using **Supervised Fine-Tuning (SFT)** on high-quality datasets consisting of **NLQ-SQL pairs** to ensure accuracy and relevance. This training process is where AI trainers play a crucial role—by curating, refining, and validating datasets to improve model performance.
 
+<img height="329" width="602" src="${PRIVATE_IMAGE_INTRO_1}" />
+
 ## Supervised Fine-Tuning (SFT) for Text-to-SQL
 
 Supervised Fine-Tuning (SFT) is a method of training LLMs using labeled datasets that explicitly map input data (natural language queries) to expected output data (SQL queries). SFT directly teaches the model how to respond to structured queries by learning from correct examples.
