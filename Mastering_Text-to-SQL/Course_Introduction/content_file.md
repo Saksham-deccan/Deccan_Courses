@@ -11,19 +11,33 @@ In this course, we’ll explore how advanced language models are trained to brid
 ## Course Modules
 
 ### Module 1: Teaching LLMs Text-To-SQL
-- Gain a deep understanding of how language models are trained to process business analysis queries in natural language and convert them into SQL.
-- Learn the critical role of an AI trainer in ensuring accurate query generation and data-driven insights.
+
+:::info
+* Gain a deep understanding of how language models are trained to process business analysis queries in natural language and convert them into SQL.
+* Learn the critical role of an AI trainer in ensuring accurate query generation and data-driven insights.
+:::
 
 ### Module 2: Database: Set-Up and Exploration
-  **Part 1:** - Setting up and accessing the practice database used throughout the course.
 
-  **Part 2:** - A step-by-step guide to thorough database exploration—understanding schema, relationships, and structures—to craft meaningful business questions and precise SQL queries.
+:::info
+* **Part 1:** - Setting up and accessing the practice database used throughout the course.
+* **Part 2:** - A step-by-step guide to thorough database exploration—understanding schema, relationships, and structures—to craft meaningful business questions and precise SQL queries.
+:::
 
 ### Module 3: Crafting a Good Natural Language Query
-- We will cover the key steps and elements that enable us to create Natural Language Queries that replicate real world-business use cases.
+
+:::info
+* We will cover the key steps and elements that enable us to create Natural Language Queries that replicate real world-business use cases.
+:::
 
 ### Module 4: Writing Accurate SQL Queries
-- Master the process of writing precise SQL queries, following a structured approach and essential best practices to ensure correctness and efficiency.
+
+:::info
+* Master the process of writing precise SQL queries, following a structured approach and essential best practices to ensure correctness and efficiency.
+:::
 
 ### Module 5: Example NLQ-SQL Pairs
-- Analyze and break down two real-world NLQ-SQL pairs, reinforcing the concepts learned in previous modules and showcasing best practices in action.
+
+:::info
+* Analyze and break down two real-world NLQ-SQL pairs, reinforcing the concepts learned in previous modules and showcasing best practices in action.
+:::
