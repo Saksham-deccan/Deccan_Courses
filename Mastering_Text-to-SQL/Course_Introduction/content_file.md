@@ -15,11 +15,9 @@ In this course, we’ll explore how advanced language models are trained to brid
 - Learn the critical role of an AI trainer in ensuring accurate query generation and data-driven insights.
 
 ### Module 2: Database: Set-Up and Exploration
-**Part 1:**  
-- Setting up and accessing the practice database used throughout the course.
+  **Part 1:** - Setting up and accessing the practice database used throughout the course.
 
-**Part 2:**  
-- A step-by-step guide to thorough database exploration—understanding schema, relationships, and structures—to craft meaningful business questions and precise SQL queries.
+  **Part 2:** - A step-by-step guide to thorough database exploration—understanding schema, relationships, and structures—to craft meaningful business questions and precise SQL queries.
 
 ### Module 3: Crafting a Good Natural Language Query
 - We will cover the key steps and elements that enable us to create Natural Language Queries that replicate real world-business use cases.

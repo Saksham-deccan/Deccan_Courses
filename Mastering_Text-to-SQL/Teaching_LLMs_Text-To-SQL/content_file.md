@@ -14,6 +14,7 @@ Supervised Fine-Tuning (SFT) is a method of training LLMs using labeled datasets
 
 As an AI trainer, you would create a structured dataset containing **NLQ-SQL pairs**, ensuring the queries reflect realistic business scenarios. The dataset should cover a diverse range of query complexities and edge cases.
 
+:::tip
 ### Your Role as an AI Trainer
 
 1. **Crafting High-Quality NLQs**
@@ -22,3 +23,4 @@ As an AI trainer, you would create a structured dataset containing **NLQ-SQL pai
    * Avoid ambiguity to ensure clear and precise SQL translation.
 2. **Writing Correct SQL Queries**
    * For every NLQ, you must provide a corresponding accurate and optimized SQL query that retrieves the correct results.
+:::

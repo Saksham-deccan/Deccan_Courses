@@ -18,10 +18,10 @@ DESCRIBE table_name;
 
 This reveals:
 
-* ✅ Column names
-* ✅ Data types (e.g., VARCHAR, INTEGER, DATE)
-* ✅ Constraints (e.g., NOT NULL, PRIMARY KEY, FOREIGN KEY)
-* ✅ Default values
+ ✅ Column names
+ ✅ Data types (e.g., VARCHAR, INTEGER, DATE)
+ ✅ Constraints (e.g., NOT NULL, PRIMARY KEY, FOREIGN KEY)
+ ✅ Default values
 
 ## Step 2: Identifying Primary and Foreign Keys
 
